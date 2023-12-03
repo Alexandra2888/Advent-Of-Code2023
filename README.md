@@ -6,6 +6,6 @@ For more info [adventofcode.com](https://adventofcode.com/)
 
 Some quick links to the challenges :smiley: 
 - Day 1 [here](https://github.com/BeerensJian/Advent-of-Code/tree/main/day1)
-- Day 2 [here](https://github.com/BeerensJian/Advent-of-Code/tree/main/day2)
+- Day 2 [here](https://github.com/Alexandra2888/Advent-Of-Code2023/tree/main/2)
 
 ![santa](https://media.tenor.com/KRiNKt1bbsUAAAAC/ho-ho-santa-claus.gif)
